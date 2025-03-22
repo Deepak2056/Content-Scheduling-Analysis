@@ -48,4 +48,5 @@
     - Scifi series offer more consistent engagement than others in the series genre
     - Peak vieweship and release match for movies, while series and documentaries need to match their release with
     - peak viewership
-    
+
+    ![Viewing habits by country](https://github.com/Deepak2056/Content-Scheduling-Analysis/blob/main/1.jpg)
