@@ -50,5 +50,7 @@
     - peak viewership
 
 ![2](Assets/1.jpg)
-![3](Assets/PeakViewership - Documentaries.jpg)
+![3](Assets/Documentaries.jpg)
+![4](Assets/Movies.jpg)
+![5](Assets/Series.jpg)
 
