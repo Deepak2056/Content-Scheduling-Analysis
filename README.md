@@ -52,3 +52,4 @@
 ![PeakViewership-Series](https://github.com/user-attachments/assets/acb98579-2e98-4ecc-8cbd-9a7bcf5467ed)
 ![PeakViewership - Movies](https://github.com/user-attachments/assets/f45a4c93-c3c8-493d-927d-669dc1e821f1)
 ![PeakViewership - Documentaries](https://github.com/user-attachments/assets/37cf4f38-dd3a-4a30-a8d3-cbc67c2c391c)
+![2](Assets/1.jpg)
