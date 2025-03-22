@@ -3,7 +3,8 @@
 ## Using data related to content delivery and viewing habits we identify gaps to optimize content on OTT platforms
 
 ### Information
-    [Dataset](https://www.kaggle.com/datasets/aashwinkumar/ott-content-scheduling-for-maximizing-engagement)
+    - [Dataset](https://www.kaggle.com/datasets/aashwinkumar/ott-content-scheduling-for-maximizing-engagement)
+    - [Dataset](https://www.kaggle.com/datasets/aashwinkumar/ott-content-scheduling-for-maximizing-engagement)
     - Dataset format - Microsoft Excel
     - Tools used - Microsoft Excel and Power BI
     
